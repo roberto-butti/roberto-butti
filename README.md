@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi Folks 👋
+
+My name is Roberto Butti.
+I love building opensource things.
+
+#### Language/Runtime
+- PHP
+- Javascript/Typescript
+- Node.js
+- Python
+
+#### Framework/Libraries
+- Laravel
+- Vue.js
+- React.js
+- Livewire
+- Flask
+
+
 
 <!--
 **roberto-butti/roberto-butti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
