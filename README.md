@@ -15,6 +15,10 @@ I love also to contribute to __OpenSource projects__, creating Pull Request for 
 - [Github Actions](https://github.com/actions/starter-workflows): creating new CI/CD template workflow for Laravel applications;
 - [Laravel 8](https://github.com/laravel/framework): fix a bug in schema dump;
 - [HERE CLI](https://github.com/heremaps/here-cli): implemented a new option to manage GPX file and upload it on Data HUB;
+- [DB Dumper](https://github.com/spatie/db-dumper): adding options for MySql dump;
+- [Drupal Console](https://github.com/hechoendrupal/drupal-console): fix some option for sqlite;
+- [Laravel Backpack / CRUD](https://github.com/Laravel-Backpack/CRUD): italian translation;
+- [Laravel Backpack / Permission Manager](https://github.com/Laravel-Backpack/PermissionManager): added italian translation;
 - ... more
 
 
