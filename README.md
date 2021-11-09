@@ -8,6 +8,7 @@ __Language/Runtime__ : PHP, Javascript/Typescript, Node.js, Python
 __Framework/Libraries__ : Laravel, Vue.js, React.js, Livewire, Flask
 
 I'm currently working on some OpenSource "side projects":
+- 📖 [50 drops of PHP](https://github.com/roberto-butti/50-drops-of-php): I'm writing an open source book about PHP. You can download the [PDF format - eBook](https://hifolks.gumroad.com/l/50-drops-of-php);
 - [Ghygen: Laravel Github Actions Workflow Generator](https://github.com/Hi-Folks/gh-actions-yaml-generator): is a web application for creating Github Actions Workflow Yaml file. You can define your PHP stack, setup a database, run migrations, run unit and features tests, run browser tests via Laravel Dusk, build assets (via Node), perform code checks (phpcs, phpstan, phpunit); 
 - [LaraLens](https://github.com/Hi-Folks/lara-lens): is a __Laravel__ package to show you the current configuration of your application. You can get the following details from an Artisan command;
 - [Milk SDK PHP](https://github.com/Hi-Folks/milk-sdk-php): is a PHP open source package SDK to connect/use and consume Geolocation services. I'm focusing on HERE Technologies services like Data HUB, Routing API, Geocoding API, Isoline API. I'm planning also to exetend the support for other providers;
