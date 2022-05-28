@@ -2,6 +2,7 @@
 
 My name is Roberto Butti.
 I love building OpenSource projects.
+I'm Developer Relations Engineer 🥑
 
 __Language/Runtime__ : PHP, Javascript/Typescript, Node.js, Python
 
@@ -25,7 +26,10 @@ I love also to contribute to __OpenSource projects__, creating Pull Request for 
 - [Laravel Backpack / Permission Manager](https://github.com/Laravel-Backpack/PermissionManager): added italian translation;
 - ... more
 
+Writing and publishing articles:
 
+- [Dev.to](https://dev.to/robertobutti)
+- [Medium](https://medium.com/@robertodev)
 
 <!--
 **roberto-butti/roberto-butti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
