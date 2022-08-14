@@ -1,3 +1,5 @@
+![Roberto](roberto-butti-php-laravel-vue-js-svelte-cover2.png)
+
 ### Hi Folks 👋
 
 My name is Roberto Butti.
