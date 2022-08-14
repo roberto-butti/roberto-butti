@@ -1,4 +1,5 @@
-![Roberto](roberto-butti-php-laravel-vue-js-svelte-cover2.png)
+
+[![Roberto](https://github.com/roberto-butti/roberto-butti/raw/master/roberto-butti-php-laravel-vue-js-svelte-cover2.png)](https://github.com/roberto-butti)
 
 ### Hi Folks 👋
 
