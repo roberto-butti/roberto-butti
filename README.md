@@ -13,7 +13,7 @@ __Framework/Libraries__ : Laravel, Vue.js, React.js, Livewire, Flask
 
 I'm currently working on some OpenSource "side projects":
 - 📖 [50 drops of PHP](https://github.com/roberto-butti/50-drops-of-php): I wrote an open source book about PHP. You can download the [PDF format - eBook](https://hifolks.gumroad.com/l/50-drops-of-php);
-- 📖 [50 drops of JavaScript](https://github.com/roberto-butti/50-drops-of-javascript): I wrote an open source book about PHP. You can download the [PDF format - eBook](https://github.com/roberto-butti/50-drops-of-javascript);
+- 📖 [50 drops of JavaScript](https://github.com/roberto-butti/50-drops-of-javascript): I wrote an open source book about JavaScript. You can download the [PDF format - eBook](https://github.com/roberto-butti/50-drops-of-javascript);
 - :robot: [Ghygen: Laravel Github Actions Workflow Generator](https://github.com/Hi-Folks/gh-actions-yaml-generator): is a web application for creating Github Actions Workflow Yaml file. You can define your PHP stack, setup a database, run migrations, run unit and features tests, run browser tests via Laravel Dusk, build assets (via Node), perform code checks (phpcs, phpstan, phpunit);
 - [LaraLens](https://github.com/Hi-Folks/lara-lens): is a __Laravel__ package to show you the current configuration of your application. You can get the following details from an Artisan command;
 - [PHP Statistics](https://github.com/Hi-Folks/statistics): PHP package that provides functions for calculating mathematical statistics of numeric data;
