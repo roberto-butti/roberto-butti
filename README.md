@@ -7,9 +7,9 @@ My name is Roberto Butti.
 I love building OpenSource projects.
 I'm Developer Relations Engineer 🥑
 
-__Language/Runtime__ : PHP, Javascript/Typescript, Node.js, Python
+__Language/Runtime__ : PHP, Javascript
 
-__Framework/Libraries__ : Laravel, Vue.js, React.js, Livewire, Flask
+__Framework/Libraries__ : Laravel, SvelteKit
 
 I'm currently working on some OpenSource "side projects":
 - 📖 [50 drops of PHP](https://github.com/roberto-butti/50-drops-of-php): I wrote an open source book about PHP. You can download the [PDF format - eBook](https://hifolks.gumroad.com/l/50-drops-of-php);
@@ -35,18 +35,6 @@ Writing and publishing articles:
 
 - [Dev.to](https://dev.to/robertobutti)
 - [Medium](https://medium.com/@robertodev)
+- [Hashnode](https://hi-folks.hashnode.dev/)
 
-<!--
-**roberto-butti/roberto-butti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
