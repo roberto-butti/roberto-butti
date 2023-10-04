@@ -12,7 +12,7 @@ __Language/Runtime__ : PHP, Javascript
 __Framework/Libraries__ : Laravel, SvelteKit
 
 I'm currently working on some OpenSource "side projects":
-- 📖 [50 drops of PHP](https://github.com/roberto-butti/50-drops-of-php): I wrote an open source book about PHP. You can download the [PDF format - eBook](https://hifolks.gumroad.com/l/50-drops-of-php);
+- 📖 [Some drops of PHP](https://github.com/roberto-butti/some-drops-of-php): I wrote an open source eBook about PHP. You can read the [HTML - eBook](https://drops-of-php.hi-folks.dev/);
 - 📖 [Some drops of JavaScript](https://github.com/roberto-butti/some-drops-of-javascript): I'm writing an open source eBook about JavaScript. You can read the [HTML - eBook](https://some-drops-of-javascript.vercel.app/);
 - :robot: [Ghygen: Laravel Github Actions Workflow Generator](https://github.com/Hi-Folks/gh-actions-yaml-generator): is a web application for creating Github Actions Workflow Yaml file. You can define your PHP stack, setup a database, run migrations, run unit and features tests, run browser tests via Laravel Dusk, build assets (via Node), perform code checks (phpcs, phpstan, phpunit);
 - [LaraLens](https://github.com/Hi-Folks/lara-lens): is a __Laravel__ package to show you the current configuration of your application. You can get the following details from an Artisan command;
