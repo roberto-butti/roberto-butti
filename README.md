@@ -12,11 +12,12 @@ __Language/Runtime__ : PHP, Javascript
 __Framework/Libraries__ : Laravel, SvelteKit
 
 I'm currently working on some OpenSource "side projects":
+- [Ibis Next](https://github.com/Hi-Folks/ibis-next): 📖 a PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - 📖 [Some drops of PHP](https://github.com/roberto-butti/some-drops-of-php): I wrote an open source eBook about PHP. You can read the [HTML - eBook](https://drops-of-php.hi-folks.dev/);
 - 📖 [Some drops of JavaScript](https://github.com/roberto-butti/some-drops-of-javascript): I'm writing an open source eBook about JavaScript. You can read the [HTML - eBook](https://some-drops-of-javascript.vercel.app/);
+- [Statistics](https://github.com/Hi-Folks/statistics): :abacus: PHP package that provides functions for calculating mathematical statistics of numeric data;
+- [Laralens](https://github.com/Hi-Folks/lara-lens): :eyeglasses: show/display useful informations from your Laravel application;
 - :robot: [Ghygen: Laravel Github Actions Workflow Generator](https://github.com/Hi-Folks/gh-actions-yaml-generator): is a web application for creating Github Actions Workflow Yaml file. You can define your PHP stack, setup a database, run migrations, run unit and features tests, run browser tests via Laravel Dusk, build assets (via Node), perform code checks (phpcs, phpstan, phpunit);
-- [LaraLens](https://github.com/Hi-Folks/lara-lens): is a __Laravel__ package to show you the current configuration of your application. You can get the following details from an Artisan command;
-- [PHP Statistics](https://github.com/Hi-Folks/statistics): PHP package that provides functions for calculating mathematical statistics of numeric data;
 - [Arr and Table package](https://github.com/Hi-Folks/array/): Arr and Table class is built on top of the PHP array functions. Arr and Table exposes methods for creating, managing, accessing to the array data structure;
 - [RandoPHP](https://github.com/Hi-Folks/rando-php): is a PHP open source package that implements random generators (Integer, Char, Byte, Float, Geocoordinates etc.) and takes random samples from arrays. This package can be broken down into two distinct types of operations: generating things and drawing from existing arrays;
 
