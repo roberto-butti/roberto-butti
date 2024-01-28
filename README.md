@@ -5,7 +5,6 @@
 
 My name is Roberto Butti.
 I love building OpenSource projects.
-I'm Developer Relations Engineer 🥑
 
 __Language/Runtime__ : PHP, Javascript
 
