@@ -11,6 +11,7 @@ __Language/Runtime__ : PHP, Javascript
 __Framework/Libraries__ : Laravel, SvelteKit
 
 I'm currently working on some OpenSource "side projects":
+- 🕸️ [Fusion](https://github.com/Hi-Folks/fusion): Fusion is a Laravel package designed to manage Markdown content via Eloquent Models.
 - 📖 [Ibis Next](https://github.com/Hi-Folks/ibis-next): a PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - 📖 [Some drops of PHP](https://github.com/roberto-butti/some-drops-of-php): I wrote an open source eBook about PHP. You can read the [HTML - eBook](https://drops-of-php.hi-folks.dev/);
 - 📖 [Some drops of JavaScript](https://github.com/roberto-butti/some-drops-of-javascript): I'm writing an open source eBook about JavaScript. You can read the [HTML - eBook](https://some-drops-of-javascript.vercel.app/);
