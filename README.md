@@ -1,12 +1,21 @@
+<h1 align="center">
+    Roberto Butti
+</h1>
 
-[![Roberto](https://github.com/roberto-butti/roberto-butti/raw/master/roberto-butti-php-laravel-vue-js-svelte-cover2.png)](https://github.com/roberto-butti)
 
-### Hi Folks 👋
+<p align=center>
+        <img src="https://github.com/roberto-butti/roberto-butti/raw/master/cover-github-roberto-php-svelte-laravel-bun.png" alt="Roberto Butti GitHub Profile page">
+</p>
 
-My name is Roberto Butti.
+<p align=center>
+    <h3>Hi Folks 👋</h3>
+    <i>
+My name is Roberto Butti.<br />
 I love building OpenSource projects.
+    </i>
+</p>
 
-__Language/Runtime__ : PHP, Javascript
+__Language/Runtime__ : PHP, Javascript (Bunjs)
 
 __Framework/Libraries__ : Laravel, SvelteKit
 
@@ -38,5 +47,3 @@ Writing and publishing articles:
 - [Dev.to](https://dev.to/robertobutti)
 - [Medium](https://medium.com/@robertodev)
 - [Hashnode](https://hi-folks.hashnode.dev/)
-
-
