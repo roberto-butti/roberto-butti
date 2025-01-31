@@ -19,7 +19,10 @@ __Language/Runtime__ : PHP, Javascript (Bunjs)
 
 __Framework/Libraries__ : Laravel, SvelteKit
 
-I'm currently working on some OpenSource "side projects":
+I'm currently wokring on the Storyblok open source project: 
+- [Storyblok Management API PHP Client](https://github.com/storyblok/php-management-api-client): the Storyblok Management API PHP Client library simplifies the integration with Storyblok's Management API in PHP applications. With easy-to-use methods, you can interact with your Storyblok space effectively.
+
+I'm currently working on some open source "side projects":
 - 🪺 [Data Block](https://github.com/Hi-Folks/data-block): PHP package which provides methods for handling, querying, filtering, and setting nested data structures with ease (good for JSON and YAML structures).
 - 🕸️ [Fusionable JS](https://github.com/Hi-Folks/fusionable): JavaScript package that aims to facilitate the management of structured, database-free content through Markdown files with Frontmatter.
 - 🕸️ [Fusion](https://github.com/Hi-Folks/fusion): Fusion is a Laravel package designed to manage Markdown content via Eloquent Models.
